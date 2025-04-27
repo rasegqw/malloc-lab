@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "stdlib.h": "c",
+        "stddef.h": "c",
+        "C_Cpp.default.configurationProvider": "",
+        "unistd.h": "c",
+        "errno.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
