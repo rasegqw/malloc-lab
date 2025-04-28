@@ -41,4 +41,3 @@ typedef struct {
 } team_t;
 
 extern team_t team;
-
